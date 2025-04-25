@@ -1,2 +1,2 @@
 # chat-cbt
-Cognitive Behavioural Therapy With Chat AI
+Cognitive Behavioral Therapy With Chat AI
